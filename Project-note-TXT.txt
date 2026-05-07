@@ -1,0 +1,2 @@
+﻿This is my first GIT and GITHUB practice file.
+I am learning how to track changes, commit work, and collaborate using version control.
